@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 32,
+    "height" : 43
+  }, {
+    "width" : 64,
+    "height" : 85
+  }, {
+    "width" : 128,
+    "height" : 169
+  }, {
+    "width" : 256,
+    "height" : 338
+  }, {
+    "width" : 512,
+    "height" : 675
+  }, {
+    "width" : 1024,
+    "height" : 1350
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1024,
+  "@id" : "https://mkimechentel.github.io/Warsh and Hafs Study/images/Warsh_2_85",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1350
+}
