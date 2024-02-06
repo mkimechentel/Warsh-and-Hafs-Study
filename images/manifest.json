@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 500,
+    "id" : "https://mkimechentel.github.io/Warsh and Hafs Study/images/c5ea3b1bc4f0006b23d29e4c114844f5/canvas/",
+    "label" : {
+      "none" : [ "c5ea3b1bc4f0006b23d29e4c114844f5" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://mkimechentel.github.io/Warsh and Hafs Study/images/c5ea3b1bc4f0006b23d29e4c114844f5/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://mkimechentel.github.io/Warsh and Hafs Study/images/c5ea3b1bc4f0006b23d29e4c114844f5/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 16,
+              "height" : 14
+            }, {
+              "width" : 32,
+              "height" : 27
+            }, {
+              "width" : 63,
+              "height" : 54
+            }, {
+              "width" : 125,
+              "height" : 108
+            }, {
+              "width" : 250,
+              "height" : 216
+            }, {
+              "width" : 500,
+              "height" : 431
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 500,
+            "@id" : "https://mkimechentel.github.io/Warsh and Hafs Study/images/c5ea3b1bc4f0006b23d29e4c114844f5",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 431
+          } ],
+          "format" : "image/jpeg",
+          "width" : 500,
+          "id" : "https://mkimechentel.github.io/Warsh and Hafs Study/images/c5ea3b1bc4f0006b23d29e4c114844f5/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 431
+        },
+        "target" : "https://mkimechentel.github.io/Warsh and Hafs Study/images/c5ea3b1bc4f0006b23d29e4c114844f5/canvas/"
+      } ]
+    } ],
+    "height" : 431
+  }, {
     "width" : 615,
     "id" : "https://mkimechentel.github.io/Warsh and Hafs Study/images/Warsh_48_17/canvas/",
     "label" : {
